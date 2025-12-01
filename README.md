@@ -1,4 +1,4 @@
-# Entorno de desarrollo integrado para formación e investigación en procesadores RISC-V
+# Integrated development environment for teaching and research on RISC-V processors
 
 CREATOR website: https://creatorsim-community.github.io/creator/ <br>
 CREATOR Source code: https://github.com/creatorsim-community/creator
